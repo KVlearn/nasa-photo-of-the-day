@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/nasa-photo-of-the-day/static/css/main.767fb10e.chunk.css",
-    "main.js": "/nasa-photo-of-the-day/static/js/main.fe896f26.chunk.js",
-    "main.js.map": "/nasa-photo-of-the-day/static/js/main.fe896f26.chunk.js.map",
+    "main.js": "/nasa-photo-of-the-day/static/js/main.cc104dec.chunk.js",
+    "main.js.map": "/nasa-photo-of-the-day/static/js/main.cc104dec.chunk.js.map",
     "runtime-main.js": "/nasa-photo-of-the-day/static/js/runtime-main.f5d077ed.js",
     "runtime-main.js.map": "/nasa-photo-of-the-day/static/js/runtime-main.f5d077ed.js.map",
     "static/css/2.8d4cdce2.chunk.css": "/nasa-photo-of-the-day/static/css/2.8d4cdce2.chunk.css",
-    "static/js/2.7561addd.chunk.js": "/nasa-photo-of-the-day/static/js/2.7561addd.chunk.js",
-    "static/js/2.7561addd.chunk.js.map": "/nasa-photo-of-the-day/static/js/2.7561addd.chunk.js.map",
+    "static/js/2.dbedc65e.chunk.js": "/nasa-photo-of-the-day/static/js/2.dbedc65e.chunk.js",
+    "static/js/2.dbedc65e.chunk.js.map": "/nasa-photo-of-the-day/static/js/2.dbedc65e.chunk.js.map",
     "index.html": "/nasa-photo-of-the-day/index.html",
-    "precache-manifest.b97bff9811161135dc86d6707ade1c41.js": "/nasa-photo-of-the-day/precache-manifest.b97bff9811161135dc86d6707ade1c41.js",
+    "precache-manifest.19a096709313367d6a9ace5a3eb32172.js": "/nasa-photo-of-the-day/precache-manifest.19a096709313367d6a9ace5a3eb32172.js",
     "service-worker.js": "/nasa-photo-of-the-day/service-worker.js",
     "static/css/2.8d4cdce2.chunk.css.map": "/nasa-photo-of-the-day/static/css/2.8d4cdce2.chunk.css.map",
     "static/css/main.767fb10e.chunk.css.map": "/nasa-photo-of-the-day/static/css/main.767fb10e.chunk.css.map",
-    "static/js/2.7561addd.chunk.js.LICENSE.txt": "/nasa-photo-of-the-day/static/js/2.7561addd.chunk.js.LICENSE.txt"
+    "static/js/2.dbedc65e.chunk.js.LICENSE.txt": "/nasa-photo-of-the-day/static/js/2.dbedc65e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f5d077ed.js",
     "static/css/2.8d4cdce2.chunk.css",
-    "static/js/2.7561addd.chunk.js",
+    "static/js/2.dbedc65e.chunk.js",
     "static/css/main.767fb10e.chunk.css",
-    "static/js/main.fe896f26.chunk.js"
+    "static/js/main.cc104dec.chunk.js"
   ]
 }
